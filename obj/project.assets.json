@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prime Number\\Prime Number\\Prime Number.csproj",
-      "projectName": "Prime Number",
-      "projectPath": "D:\\Prime Number\\Prime Number\\Prime Number.csproj",
+      "projectUniqueName": "D:\\Perfect Number\\Perfect Number\\Perfect Number.csproj",
+      "projectName": "Perfect Number",
+      "projectPath": "D:\\Perfect Number\\Perfect Number\\Perfect Number.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Prime Number\\Prime Number\\obj\\",
+      "outputPath": "D:\\Perfect Number\\Perfect Number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
